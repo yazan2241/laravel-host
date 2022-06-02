@@ -1,0 +1,4 @@
+postgres://oihqhwvjuoaiob:5a8477b4d980eddebc889d778817a63056e3d641c5e915c900bd9f05d7fc2329@ec2-34-198-186-145.compute-1.amazonaws.com:5432/dan7rm2e81l4ls
+
+
+heroku pg:psql --host=ec2-34-198-186-145.compute-1.amazonaws.com --port=5432 --username=oihqhwvjuoaiob --password --dbname=dan7rm2e81l4ls
